@@ -749,7 +749,7 @@ C<new()> is called as C<< my($parser) = Text::Balanced::Marpa -> new(k1 => v1, k
 
 It returns a new object of type C<Text::Balanced::Marpa>.
 
-Key-value pairs accepted in the parameter list (see corresponding methods for details
+Key-value pairs are accepted in the parameter list (see corresponding methods for details
 [e.g. L<open([$delimiter_list])>]):
 
 =over 4
